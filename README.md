@@ -68,6 +68,9 @@ Start the development server:
 
 ```bash
 uvicorn main:app --reload
+
+or
+fastapi dev
 ```
 
 The API will be available at:

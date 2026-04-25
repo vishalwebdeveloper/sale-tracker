@@ -71,10 +71,10 @@ uvicorn main:app --reload
 
 ```
 or
----
+```bash
 
 fastapi dev
----
+```
 The API will be available at:
 
 ```

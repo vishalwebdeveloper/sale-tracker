@@ -84,4 +84,15 @@ http://127.0.0.1:8000/
 A custom Swagger UI is served at the root endpoint.
 
 ---
+### Testing Instruction by the postman endpoints and the response
+
+--- Post API endpoint ---
+
+<img width="1444" height="867" alt="Screenshot 2026-04-26 111215" src="https://github.com/user-attachments/assets/75182e5b-2ab7-4d39-8bdc-da67be4c8334" />
+
+--- Get API endpoint ---
+<img width="1437" height="878" alt="Screenshot 2026-04-26 111315" src="https://github.com/user-attachments/assets/ec45121a-9611-431a-a505-c85866ea94b7" />
+
+
+
 
